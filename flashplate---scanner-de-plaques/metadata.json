@@ -1,0 +1,7 @@
+{
+  "name": "FlashPlate - Scanner de Plaques",
+  "description": "Application de surveillance de plaques d'immatriculation françaises avec détection automatique par IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
